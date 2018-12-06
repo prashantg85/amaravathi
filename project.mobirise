@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -110,14 +110,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-4",
+          "_name": "map2",
+          "_anchor": "map2-8",
           "_params": {
             "googleMap": {
-              "address": "4-16-96/b, Amaravathi Road, Bandlamudi Complex, Srinagar Colony, Guntur, Andhra Pradesh 522002",
-              "placeId": "",
-              "state": "error",
-              "stateDetails": "Failed to load the library"
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
             }
           }
         },
